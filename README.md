@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="MIT">
 </p>
 
+<p align="center">
+  <img src="docs/screens.jpg" alt="Screens" width="100%"/>
+  <br/><sub>Live site: scan of a real Flutter repo</sub>
+</p>
+
 > **English summary.** Flutter Assets Watch is a zero-backend, zero-build web tool (Arabic UI), the sibling of
 > [Flutter Deps Watch](https://youssef336.github.io/flutter-deps-watch/). Give it a GitHub repo link and it reads the
 > git tree (which already carries every file's byte size), `pubspec.yaml` and the Dart code in `lib/`, then reports:
