@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/youssef336/flutter-assets-watch/main/screenshots/banner.png" alt="flutter-assets-watch banner" width="100%"></p>
+
 <h1 align="center">Flutter Assets Watch</h1>
 
 <p align="center">
